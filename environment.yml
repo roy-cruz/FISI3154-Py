@@ -1,0 +1,8 @@
+
+name: FISI3154-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
